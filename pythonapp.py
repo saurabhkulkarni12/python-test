@@ -1,2 +1,2 @@
-def greetings():
+def welcome():
  print('welcome to my code')
