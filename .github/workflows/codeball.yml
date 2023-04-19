@@ -17,4 +17,4 @@ jobs:
           labelPullRequestsWhenApproved: "true"
           labelPullRequestsWhenReviewNeeded: "false"
           failJobsWhenReviewNeeded: "false"
-          codeSuggestionsFromComments: "false"
+          codeSuggestionsFromComments: "true"
